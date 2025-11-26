@@ -1,4 +1,19 @@
-D 'DEA': Data envelopment analysis
+D 'xtasysum': Generate, summarize, and visualize partial sums for modeling asymmetry with panel data Use xtasysum With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F bootstrap_xtdcce2.ado
+F xtasysum.ado
+F xtasysum.sthlp
+F xtbalance2.ado
+F xtcd2.ado
+F xtcd2.sthlp
+F xtcse2.ado
+F xtcse2.sthlp
+F xtdcce2.ado
+F xtdcce2.sthlp
+F xtdcce2_auxiliary.ado
+F xtdcce2_estat.ado
+F xtdcce2_p.ado
+F xtdcce2fast.ado
+F xtdcce2fast.sthlp
+F xtset2.ado
+F xtset2.sthlp
