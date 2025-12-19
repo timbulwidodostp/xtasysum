@@ -1,6 +1,8 @@
 # xtasysum
 Generate, summarize, and visualize partial sums for modeling asymmetry with panel data Use xtasysum With STATA 19
 
+https://www.youtube.com/watch?v=TbHuLG40MW4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
